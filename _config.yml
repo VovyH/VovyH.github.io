@@ -22,7 +22,7 @@ repository               : "VovyH/VovyH.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "avatar.jpg
   name             : "Yuhang Wu (邬雨航)"
   pronouns         : # example: "she/her"  
   bio              : "Master"
