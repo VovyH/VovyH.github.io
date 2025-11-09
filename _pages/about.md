@@ -7,43 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/avatar-logo.jpg" width="10%">
+<img src="/images/avatar.jpg" width="10%">
 
-**Junjie Wang (王军杰)** is currently a **postdoctoral researcher** at the [IIGROUP Lab](https://iigroup.github.io/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [**Prof. Yujiu Yang**](https://iigroup.github.io/about/). 
-His research interests include natural language processing, multimodal reasoning, and embodied intelligence. He received his Ph.D. in Engineering from [Waseda University](https://www.waseda.jp/top/en/), under the supervision of [**Prof. Tetsuya Sakai**](http://sakailab.com/tetsuya/).
+**Yuhang Wu (邬雨航)** is currently a **first-year graduate student in Electronic Information** at [Shanghai University of Engineering Science](https://www.sues.edu.cn/). 
 
-Email: wangjunjie@sz.tsinghua.edu.cn (**Please state your purpose / 请您注明来意**)
+📧 You can contact me via vovyh0514@gmail.com (Please state your purpose / 请您注明来意)
 
-🌌 **Long-term Goal / 长期目标**
+🚀 **Current Status / 目前状态**
+First-year graduate student in Electronic Information, focusing on cutting-edge research in AI security and related fields.
 
-🧠 Thought Patterns / 思维范式
+🧠 **Research Interests / 研究兴趣**
+1. Security of Large Language Models (LLM) / 大语言模型（LLM）安全
+2. Interpretability of AI Systems / 人工智能系统的可解释性
+3. Trustworthy & Reliable AI / 可信与可靠人工智能
 
-To build AI guided by the principles of human thought patterns, enabling machines to reason, create, and collaborate in a transparent and verifiable manner.
+⚡ **Key Achievements / 主要成果**
+- Top Ten Projects & Outstanding Project Award, Shusheng Training Camp, Shanghai Artificial Intelligence Laboratory / 上海人工智能实验室书生训练营 十佳项目 & 优秀项目
 
-致力于构建以人类思维范式为指导的AI，使其能够以透明、可验证的方式进行推理、创造与协作。
-
-🔎 **Research Interests / 研究兴趣**
-
-1. Deconstructing Thought Patterns / 解构思维范式
-  - Embodied & Multimodal Grounding / 具身与多模态基础
-  - Structured & Verifiable Reasoning / 结构化与可验证推理
-  - Cross-Modal Cognitive Patterns / 跨模态认知范式
-2. Implementing Thought Patterns / 实现思维范式
-  - Creative & Narrative Generation / 创造性与叙事生成
-  - Logical Patterns in Code / 代码中的逻辑范式
-3. Aligning Thought Patterns / 对齐思维范式
-  - Controllable & Editable Generation / 可控与可编辑生成
-  - Safe & Reliable Reasoning / 安全与可靠推理
-  
-✒️ **Recent Professional Services / 最近的专业服务**
-
-- Area Chair: ACL ARR 2025 October
-- Senior PC member: WSDM 2026
-- Workshop Organiser: SIGIR-AP 2025 BREV-RAG Workshop
+🤝 **Collaboration / 合作意向**
+Open to collaboration on projects related to AI security, LLM interpretability, and trustworthy AI. Feel free to reach out with potential cooperation opportunities!
 
 ## Publications
 
-Details in [Publications Page](https://wangjunjie-ai.github.io/publications/)
+Details in [Publications Page](https://VovyH.github.io/publications/  )
 
 <p>Total Publications: {{ site.publications | size }}</p>
 
@@ -54,3 +40,4 @@ Details in [Publications Page](https://wangjunjie-ai.github.io/publications/)
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
+
