@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <img src="/images/avatar.jpg" width="10%"> -->
 
 **Yuhang Wu (邬雨航)** is currently a **first-year graduate student in Electronic Information** at [Shanghai University of Engineering Science](https://www.sues.edu.cn/). 
 
