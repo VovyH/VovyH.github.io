@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/avatar.jpg" width="10%">
+<!-- <img src="/images/avatar.jpg" width="10%"> -->
 
 **Yuhang Wu (邬雨航)** is currently a **first-year graduate student in Electronic Information** at [Shanghai University of Engineering Science](https://www.sues.edu.cn/). 
 
@@ -32,7 +32,7 @@ Open to collaboration on projects related to AI security, LLM interpretability, 
 
 Details in [Publications Page](https://VovyH.github.io/publications/  )
 
-<p>Total Publications: {{ site.publications | size }}</p>
+<p>Total Publications: 3</p>
 
 - ⭐: Co-first Author
 - 🚩: Corresponding Author
