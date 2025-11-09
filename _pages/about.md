@@ -23,6 +23,7 @@ First-year graduate student in Electronic Information, focusing on cutting-edge 
 
 ⚡ **Key Achievements / 主要成果**
 - Top Ten Projects & Outstanding Project Award, Shusheng Training Camp, Shanghai Artificial Intelligence Laboratory / 上海人工智能实验室书生训练营 十佳项目 & 优秀项目
+- [EMNLP2025] Sugar-Coated Poison: Benign Generation Unlocks Jailbreaking
 
 🤝 **Collaboration / 合作意向**
 Open to collaboration on projects related to AI security, LLM interpretability, and trustworthy AI. Feel free to reach out with potential cooperation opportunities!
